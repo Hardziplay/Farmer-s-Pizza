@@ -49,6 +49,7 @@ public class FarmersPizza
     {
         if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS) {
             event.accept(ModItems.CHEESE);
+            event.accept(ModItems.GRATED_CHEESE);
         }
     }
 
