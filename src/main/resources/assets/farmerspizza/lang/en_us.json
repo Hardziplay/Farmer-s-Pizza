@@ -1,4 +1,7 @@
 {
   "item.farmerspizza.cheese": "Cheese",
-  "item.farmerspizza.grated_cheese": "Grated Cheese"
+  "item.farmerspizza.grated_cheese": "Grated Cheese",
+  "item.farmerspizza.rolling_pin": "Rolling Pin",
+
+  "creativetab.farmers_pizza_tab": "Farmer's Pizza"
 }
